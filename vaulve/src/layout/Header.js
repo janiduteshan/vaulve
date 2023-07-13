@@ -35,23 +35,7 @@ const Header = () => {
                 >
                   Home
                 </a>
-                <ul
-                  className="sub-menu"
-                  style={{ display: homeToggle ? "block" : "none" }}
-                >
-                  <li>
-                    <Link href="/">Home Static</Link>
-                  </li>
-                  <li>
-                    <Link href="/kenburns">Full Kenburns</Link>
-                  </li>
-                  <li>
-                    <Link href="/half-kenburns">Half Kenburns</Link>
-                  </li>
-                  <li>
-                    <Link href="/half-slider">Half Slider</Link>
-                  </li>
-                </ul>
+                
               </li>
               <li className="menu-item">
                 <Link href="/about">About</Link>
