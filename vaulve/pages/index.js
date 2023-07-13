@@ -24,7 +24,7 @@ const Index = () => {
           <div className="container">
             <div className="content">
               <h2 className="fn_title" title="Neoh">
-                Neoh
+                Vaulve
               </h2>
               <p className="fn_desc fn_animated_text">
                 The collection built by and runby codeefly. Together we are
