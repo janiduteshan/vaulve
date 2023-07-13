@@ -27,8 +27,7 @@ const Index = () => {
                 Vaulve
               </h2>
               <p className="fn_desc fn_animated_text">
-              Simplifying the complex, 
-              one click at a time.
+              Simplifying the complex, one click at a time.
               </p>
             </div>
           </div>
