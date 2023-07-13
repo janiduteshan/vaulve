@@ -10,20 +10,20 @@ const AboutComponent = () => {
           </div>
           <div className="content_item">
             <div className="neoh_fn_title" data-align="left">
-              <h3 className="fn_title">The Rise of Neoh</h3>
+              <h3 className="fn_title">Vaulve Flow</h3>
               <div className="line">
                 <span />
               </div>
             </div>
             <div className="desc">
               <p>
-                As the first hero of the Neoh Universe, collection has over
-                9,999 unique skins drawn from the different missions and
-                challenges he faced throughout his life.
+              A powerful and easy-to-use online POS system 
+              That helps you manage your business from anywhere.
               </p>
               <p>
-                The artwork has been hand-drawned by Robert Green in the
-                traditional anime style and composited by Layla Efiyo.
+              Vaulve POS is the simple, powerful way to run your business. 
+              With our system, you can manage your inventory, track sales, and accept payments from 
+              Anywhere.
               </p>
             </div>
             <div className="buttons">
