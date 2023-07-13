@@ -36,7 +36,7 @@ const AboutComponent = () => {
                 <span className="icon">
                   <img src="svg/opensea.svg" alt="" className="fn__svg" />
                 </span>
-                <span className="text">OpenSea</span>
+                <span className="text">Read More</span>
               </a>
               <a
                 href="https://discord.com/"
