@@ -16,7 +16,7 @@ const Index = () => {
           <div className="bg_color" />
           {/* !Overlay Color */}
           {/* Overlay Image */}
-          <div className="bg_image" data-bg-img="img/hero/bg.jpg" />
+          <div className="bg_image" data-bg-img="img/hero/background.jpg" />
           {/* !Overlay Image */}
         </div>
         {/* Overlay (of hero header) */}
@@ -27,8 +27,8 @@ const Index = () => {
                 Vaulve
               </h2>
               <p className="fn_desc fn_animated_text">
-                The collection built by and runby codeefly. Together we are
-                strong than ever.
+              Simplifying the complex, 
+              <br />one click at a time.
               </p>
             </div>
           </div>

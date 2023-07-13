@@ -16,7 +16,7 @@ const About = () => {
               </div>
               <div className="content_item">
                 <div className="neoh_fn_title" data-align="left">
-                  <h3 className="fn_title">The Rise of Neoh</h3>
+                  <h3 className="fn_title">The Rise of Vaulve</h3>
                   <div className="line">
                     <span />
                   </div>

@@ -93,10 +93,10 @@ const Header = () => {
             <p>
               Copyright 2022- Designed &amp; Developed by{" "}
               <a
-                href="https://themeforest.net/user/codeefly/portfolio"
+                href="https://github.com/janiduteshan"
                 target="_blank"
               >
-                Codeefly
+                Janidu Teshan
               </a>
             </p>
           </div>

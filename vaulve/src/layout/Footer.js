@@ -77,11 +77,11 @@ const Footer = () => {
                   Copyright {new Date().getFullYear()} - Designed &amp;
                   Developed by{" "}
                   <a
-                    href="https://themeforest.net/user/codeefly/portfolio"
+                    href="https://github.com/janiduteshan"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Codeefly
+                    Janidu Teshan
                   </a>
                 </p>
               </div>
