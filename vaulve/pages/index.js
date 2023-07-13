@@ -28,7 +28,7 @@ const Index = () => {
               </h2>
               <p className="fn_desc fn_animated_text">
               Simplifying the complex, 
-              <br />one click at a time.
+              one click at a time.
               </p>
             </div>
           </div>
