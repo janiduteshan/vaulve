@@ -6,7 +6,7 @@ const AboutComponent = () => {
         {/* About Item #1 */}
         <div className="neoh_fn_about_item">
           <div className="img_item">
-            <img src="img/about/1.jpg" alt="" />
+            <img src="img/about/flow.jpg" alt="" />
           </div>
           <div className="content_item">
             <div className="neoh_fn_title" data-align="left">
