@@ -79,28 +79,18 @@ const Header = () => {
             <div className="neoh_fn_social_list">
               <ul>
                 <li>
-                  <a href="#">
+                  <a href="twitter.com/vaulvedigital">
                     <i className="fn-icon-twitter" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="facebook.com/vaulve">
                     <i className="fn-icon-facebook" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="instagram.com/vaulvedigital">
                     <i className="fn-icon-instagram" />
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <i className="fn-icon-pinterest" />
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <i className="fn-icon-behance" />
                   </a>
                 </li>
               </ul>
