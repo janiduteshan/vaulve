@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { Fragment } from "react";
 import "../styles/globals.css";
+import { Analytics } from '@vercel/analytics/react';
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -20,6 +21,7 @@ function MyApp({ Component, pageProps }) {
         <link type="text/css" rel="stylesheet" href="css/style.css?ver=1.1" />
       </Head>
       <Component {...pageProps} />
+      <Analytics />
     </Fragment>
   );
 }
